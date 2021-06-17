@@ -10,6 +10,16 @@
     <form id="form1" runat="server">
         <div>
             <h1>header 2</h1>
+            <table>
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        Sukumar
+                    </td>
+                </tr>
+            </table>
         </div>
     </form>
 </body>
